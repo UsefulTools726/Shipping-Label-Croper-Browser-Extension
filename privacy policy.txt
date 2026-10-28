@@ -1,0 +1,24 @@
+Privacy Policy — Shipping Label Cropper
+
+Last updated: October 28, 2026
+
+Shipping Label Cropper (“the Extension”) processes shipping label PDFs that you open in your browser so they can be cropped for printing.
+
+Data we collect
+The Extension does not collect, sell, or transmit personal information to the developer or any third-party server.
+
+Local processing
+PDF files are fetched and processed on your device in the browser. Cropped results are opened as local PDF tabs (blob URLs).
+
+Local storage
+The Extension may store on your device only:
+
+learned crop templates (fingerprint + crop coordinates)
+related extension settings
+This data stays in the browser’s extension storage (chrome.storage.local) and is not uploaded by the Extension.
+
+Permissions
+Host and tab-related permissions are used only to read the active tab’s PDF URL, fetch that PDF for cropping, and provide the toolbar / right-click actions. The Extension does not track your browsing history.
+
+Contact
+For privacy questions, contact: [your email]
