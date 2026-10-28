@@ -60,6 +60,9 @@ See [STORE.md](STORE.md) for upload steps, listing copy, and permission notes.
 
 Detection uses pdf.js at 2× scale. Cropping uses pdf-lib `embedPage` into a new page sized to the crop (not CropBox-only), which avoids leftover white space on print.
 
+##Privacy Policy
+Read the [Privacy Policy}(docs/privacy-policy.html).
+
 ## Permissions
 Storage, tabs, activeTab, contextMenus, and host permissions for fetching PDFs.
 
